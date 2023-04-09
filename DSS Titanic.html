@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Titanic</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+  </head>
+  <body>
+
+    <nav>
+      <input type="checkbox" id="check">
+      <label for="check" class="checkbtn">
+        <i class="fas fa-bars"></i>
+      </label>
+      <label class="logo">Titanic visualizations</label>
+      <ul>
+        <li><a class="active" href="#">Home</a></li>
+        <li><a  href="file:///C:/Users/user/Desktop/web%20page/about.html">About</a></li>
+        <li><a href="file:///C:/Users/user/Desktop/web%20page/overview.html">overview</a></li>
+		<li><a href="#" >visualizations</a>
+		 <div class="sub-menu-1">
+	<ul>
+	
+  <li><a  href="file:///C:/Users/user/Desktop/web%20page/visualization%201.html">Dashboard1</a></li>
+  <li><a  href="file:///C:/Users/user/Desktop/web%20page/visualization%202.html">Dashboard2</a></li>
+  <li><a  href="file:///C:/Users/user/Desktop/web%20page/visualization%203.html">Dashboard3</a></li>
+  <li><a  href="file:///C:/Users/user/Desktop/web%20page/visualization%204.html">World Map</a></li>
+   </ul>
+		 </div>
+  
+ 
+		</li>
+        
+        
+      </ul>
+    </nav>
+	
+    <section></section>
+	
+	
+	
+	
+	 <footer style='background-color:#ebf4fa;'>
+	<h1 style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
+margin-bottom:.0001pt;text-indent:-.25in;vertical-align:baseline'>
+<span
+style='font-size:20.5pt;font-family:Wingdings;color:#222222'></span>
+References:</h1>
+	<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
+margin-bottom:.0001pt;text-indent:-.25in;vertical-align:baseline'><span
+style='font-size:20.5pt;font-family:Wingdings;color:#222222'>Â§<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><a
+href="https://www.kaggle.com/datasets/pavlofesenko/titanic-extended?select=full.csv">Data
+Visualization in tableau</a></p>
+	
+	<p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
+margin-bottom:.0001pt;text-indent:-.25in;vertical-align:baseline'><span
+style='font-size:20.5pt;font-family:Wingdings;color:#222222'>Â§<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><a
+href="titanic.csv">Data of Countries</a></p>
+	
+  <p style='margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.5in;
+margin-bottom:.0001pt;text-indent:-.25in;vertical-align:baseline'><span
+style='font-size:20.5pt;font-family:Wingdings;color:#222222'>Â§<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span><a
+href="https://public.tableau.com/app/profile/abdullah.abdelal">Tableau public</a></p>
+	</footer>
+	
+	<style>
+	*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+body{
+  font-family: montserrat;
+}
+h1
+{
+color: black;
+font-size: 35px;
+ padding: 10px;
+ font-weight: bold;
+ color: navy;
+ 
+}
+ .footer:hover
+ {
+ background-color:#82CAFF;
+ }
+p
+{
+ padding-left: 30px;
+ 
+}
+nav{
+  background: #0082e6;
+  height: 80px;
+  width: 100%;
+}
+label.logo{
+  color: white;
+  font-size: 35px;
+  line-height: 80px;
+  padding: 0 100px;
+  font-weight: bold;
+}
+nav ul{
+  float: right;
+  margin-right: 20px;
+}
+nav ul li{
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+}
+nav ul li a{
+  color: white;
+  font-size: 17px;
+  padding: 7px 13px;
+  border-radius: 3px;
+  text-transform: uppercase;
+}
+a.active,a:hover{
+  background: #1b9bff;
+  transition: .5s;
+}
+.checkbtn{
+  font-size: 30px;
+  color: white;
+  float: right;
+  line-height: 80px;
+  margin-right: 40px;
+  cursor: pointer;
+  display: none;
+}
+#check{
+  display: none;
+}
+@media (max-width: 952px){
+  label.logo{
+    font-size: 30px;
+    padding-left: 50px;
+  }
+  nav ul li a{
+    font-size: 16px;
+  }
+}
+@media (max-width: 858px){
+  .checkbtn{
+    display: block;
+  }
+  ul{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: #2c3e50;
+    top: 80px;
+    left: -100%;
+    text-align: center;
+    transition: all .5s;
+  }
+  nav ul li{
+    display: block;
+    margin: 50px 0;
+    line-height: 30px;
+  }
+  nav ul li a{
+    font-size: 20px;
+  }
+  a:hover,a.active{
+    background: none;
+    color: #0082e6;
+  }
+  #check:checked ~ ul{
+    left: 0;
+  }
+}
+section{
+  background: url(Captur2e.PNG) no-repeat;
+  background-size: cover;
+  height: calc(100vh - 80px);
+  background-position:left;
+  
+}
+.sub-menu-1
+{
+  display:none;
+ 
+}
+nav ul li:hover .sub-menu-1
+{
+display:block;
+position:absolute;
+background: #99b3ff;
+margin-top: 15px;
+margin-left:-15px;
+
+
+}
+nav ul li:hover .sub-menu-1
+{
+display:block;
+margin:10px;
+}
+</style>
+  </body>
+</html>
