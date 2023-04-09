@@ -1,0 +1,270 @@
+<html>
+
+<head>
+
+	<meta charset="utf-8">
+    <title>about</title>
+	
+	
+	<nav>
+      <input type="checkbox" id="check">
+      <label for="check" class="checkbtn">
+        <i class="fas fa-bars"></i>
+      </label>
+      <label class="logo">Create a Tableau visualizations</label>
+     
+		 
+	
+    </nav>
+    
+
+
+</head>
+
+<body lang=EN-US link=blue vlink="#954F72"  style='background-color:#ebf4fa;'>
+
+<div class=WordSection1>
+</br></br>
+
+
+<p class=MsoNormal style='line-height:normal'><b><span style='font-size:20pt;color:black;
+font-family:"Times New Roman",serif'>Dataset: <a href="https://www.kaggle.com/datasets/pavlofesenko/titanic-extended?select=full.csv">Titanic Dataset</a></span></b></p>
+
+</br>
+<p class=MsoNormal style='line-height:normal'><b><span style='font-size:12.0pt;   padding-left:20px; color: navy;
+font-family:"Times New Roman",serif'>RMS Titanic was a British passenger liner operated by the White Star Line that sank in the North Atlantic Ocean in the early morning hours of 15 April 1912, after striking an iceberg during her maiden voyage from Southampton to New York City. Of the estimated 2,224 passengers and crew aboard, more than 1,500 died. While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others. By analyzing features, such as class, gender, age, number of children, number of parents, fare, and more, in the Titanic passenger dataset, we trained eight different machine learning models and selected the one with the highest accuracy score to build an application that can predict whether a given passenger would have survived this disaster or not.</span></b></p>
+
+</br>
+
+<p class=MsoNormal style='line-height:normal'><b><span style='font-size:20pt;color:black;
+font-family:"Times New Roman",serif'>Data </span></b></p>
+
+
+
+
+
+
+<p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;line-height:normal'><span
+style='font-size:12.0pt;font-family:Symbol'>Â·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>After having a brief look at the data frame, I have listed all
+the parameters with their type</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:1.0in;text-indent:-.25in;
+line-height:normal'><span style='font-size:12.0pt;font-family:"Courier New"'>o<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span>Survival:
+Survival (0 = Not Survived ,1 = Survived)</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:1.0in;text-indent:-.25in;
+line-height:normal'><span style='font-size:12.0pt;font-family:"Courier New"'>o<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span>Pclass:
+Passenger class (1 = Upper class ,2 = Middle class , 3 = Lower class)</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:1.0in;text-indent:-.25in;
+line-height:normal'><span style='font-size:12.0pt;font-family:"Courier New"'>o<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span>Name: Name of
+the passenger</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:1.0in;text-indent:-.25in;
+line-height:normal'><span style='font-size:12.0pt;font-family:"Courier New"'>o<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span>Sex:
+Male/Female</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:1.0in;text-indent:-.25in;
+line-height:normal'><span style='font-size:12.0pt;font-family:"Courier New"'>o<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span>Age: Age of the
+Passenger</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:1.0in;text-indent:-.25in;
+line-height:normal'><span style='font-size:12.0pt;font-family:"Courier New"'>o<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span>Sibsp : No of
+siblings /spouses aboard the Titanic</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:1.5in;text-indent:-.25in;
+line-height:normal'><span style='font-size:12.0pt;font-family:Wingdings'>&nbsp;<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span>sibling =
+brother,sister,stepbrother, stepsister</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:1.5in;text-indent:-.25in;
+line-height:normal'><span style='font-size:12.0pt;font-family:Wingdings'>&nbsp;<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span>spouses = husband,
+wife</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:1.0in;text-indent:-.25in;
+line-height:normal'><span style='font-size:12.0pt;font-family:"Courier New"'>o<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span>Parch: No of
+parents and children aboard the Titanic</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:1.5in;text-indent:-.25in;
+line-height:normal'><span style='font-size:12.0pt;font-family:Wingdings'>&nbsp;<span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span></span>Parent = mother and
+father</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:1.5in;text-indent:-.25in;
+line-height:normal'><span style='font-size:12.0pt;font-family:Wingdings'><span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span>&nbsp;</span>Child = daughter, son</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:1.5in;text-indent:-.25in;
+line-height:normal'><span style='font-size:12.0pt;font-family:Wingdings'><span
+style='font:7.0pt "Times New Roman"'>&nbsp; </span>&nbsp;</span>Some children
+travelled alone or with nanny so they have parch = 0 for them</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:1.0in;text-indent:-.25in;
+line-height:normal'><span style='font-size:12.0pt;font-family:"Courier New"'>o<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span>Ticket: Ticket
+no of passenger</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:1.0in;text-indent:-.25in;
+line-height:normal'><span style='font-size:12.0pt;font-family:"Courier New"'>o<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span>Fare: Fare of
+the ticket</p>
+
+<p class=MsoListParagraphCxSpMiddle style='margin-left:1.0in;text-indent:-.25in;
+line-height:normal'><span style='font-size:12.0pt;font-family:"Courier New"'>o<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span>Cabin: Contains
+the cabin number</p>
+
+<p class=MsoListParagraphCxSpLast style='margin-left:1.0in;text-indent:-.25in;
+line-height:normal'><span style='font-size:12.0pt;font-family:"Courier New"'>o<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span>Embarked:
+Contains port of Embarkation. Contains three value.(C = Cherbourg, Q =
+Queenstown, S = Southampton)</p>
+<style>
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+body{
+  font-family: montserrat;
+}
+h1
+{
+color: black;
+font-size: 35px;
+ padding: 10px;
+ font-weight: bold;
+ background-color:#0082e6;
+}
+ 
+p
+{
+ color: navy;
+ padding-left:30px;
+ font-size:12.0pt;
+}
+nav{
+  background: #0082e6;
+  height: 80px;
+  width: 100%;
+}
+label.logo{
+  color: white;
+  font-size: 35px;
+  line-height: 80px;
+  padding: 0 100px;
+  font-weight: bold;
+}
+nav ul{
+  float: right;
+  margin-right: 20px;
+}
+nav ul li{
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+}
+nav ul li a{
+  color: white;
+  font-size: 17px;
+  padding: 7px 13px;
+  border-radius: 3px;
+  text-transform: uppercase;
+}
+a.active,a:hover{
+  background: #1b9bff;
+  transition: .5s;
+}
+.checkbtn{
+  font-size: 30px;
+  color: white;
+  float: right;
+  line-height: 80px;
+  margin-right: 40px;
+  cursor: pointer;
+  display: none;
+}
+#check{
+  display: none;
+}
+@media (max-width: 952px){
+  label.logo{
+    font-size: 30px;
+    padding-left: 50px;
+  }
+  nav ul li a{
+    font-size: 16px;
+  }
+}
+@media (max-width: 858px){
+  .checkbtn{
+    display: block;
+  }
+  ul{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: #2c3e50;
+    top: 80px;
+    left: -100%;
+    text-align: center;
+    transition: all .5s;
+  }
+  nav ul li{
+    display: block;
+    margin: 50px 0;
+    line-height: 30px;
+  }
+  nav ul li a{
+    font-size: 20px;
+  }
+  a:hover,a.active{
+    background: none;
+    color: #0082e6;
+  }
+  #check:checked ~ ul{
+    left: 0;
+  }
+}
+section{
+  background: url(Captur2e.PNG) no-repeat;
+  background-size: cover;
+  height: calc(80vh - 80px);
+  background-position:left;
+  
+}
+.sub-menu-1
+{
+  display:none;
+ 
+}
+nav ul li:hover .sub-menu-1
+{
+display:block;
+position:absolute;
+background: #99b3ff;
+margin-top: 15px;
+margin-left:-15px;
+
+
+}
+nav ul li:hover .sub-menu-1
+{
+display:block;
+margin:10px;
+}
+</style>
+</body>
+
+</html>
