@@ -1,0 +1,2120 @@
+gender,age,class,country,survived
+male,42,3rd,United States,no
+male,13,3rd,United States,no
+male,16,3rd,United States,no
+female,39,3rd,England,yes
+female,16,3rd,Norway,yes
+male,25,3rd,United States,yes
+male,30,2nd,France,no
+female,28,2nd,France,yes
+male,27,3rd,Lebanon,yes
+male,20,3rd,Finland,yes
+male,30,3rd,Sweden,no
+male,27,3rd,England,no
+female,40,3rd,Sweden,no
+male,0.833333333,3rd,England,yes
+female,18,3rd,England,yes
+male,35,2nd,England,no
+male,25,3rd,England,no
+male,19,3rd,Finland,no
+male,24,3rd,Argentina,no
+male,25,3rd,Argentina,no
+female,29,1st,United States,yes
+male,39,3rd,England,no
+male,0.916666667,1st,Canada,yes
+female,2,1st,Canada,no
+male,30,1st,Canada,no
+female,25,1st,United States,no
+male,18,3rd,England,no
+male,19,3rd,Lebanon,no
+female,19,3rd,Denmark,yes
+male,33,3rd,Norway,no
+male,47,1st,United States,yes
+male,4,3rd,Sweden,no
+female,6,3rd,Sweden,no
+female,2,3rd,Sweden,no
+female,16,3rd,Finland,yes
+female,38,3rd,Sweden,no
+female,9,3rd,Sweden,no
+female,11,3rd,Sweden,no
+male,39,3rd,Sweden,no
+male,26,3rd,Sweden,no
+female,39,3rd,Sweden,no
+male,20,3rd,Sweden,no
+male,17,2nd,Argentina,no
+male,27,2nd,England,no
+female,62,1st,United States,yes
+male,39,1st,Northern Ireland,no
+male,26,3rd,Bulgaria,no
+female,36,2nd,England,yes
+male,31,2nd,England,no
+female,53,1st,United States,yes
+male,25,3rd,Switzerland,no
+female,18,3rd,Switzerland,no
+male,25,3rd,Sweden,no
+male,71,1st,Argentina,no
+male,57,2nd,England,no
+male,35,3rd,Argentina,no
+male,5,3rd,Sweden,no
+male,9,3rd,Sweden,no
+male,3,3rd,Sweden,yes
+male,13,3rd,Sweden,no
+female,5,3rd,Sweden,yes
+male,40,3rd,Sweden,no
+male,23,3rd,Sweden,yes
+female,38,3rd,Sweden,yes
+female,45,3rd,Lebanon,yes
+male,23,3rd,Argentina,no
+male,47,1st,United States,no
+female,18,1st,United States,yes
+female,17,3rd,Lebanon,no
+male,27,3rd,Canada,no
+female,24,1st,France,yes
+male,23,3rd,Sweden,no
+female,15,3rd,Lebanon,yes
+male,32,3rd,Finland,no
+female,33,3rd,Finland,yes
+female,3,3rd,Lebanon,yes
+female,0.75,3rd,Lebanon,yes
+female,5,3rd,Lebanon,yes
+female,23,3rd,Lebanon,yes
+female,18,3rd,England,yes
+male,40,3rd,Lebanon,no
+male,18,2nd,England,no
+male,22,2nd,Channel Islands,no
+male,26,3rd,Bosnia,no
+female,36,2nd,England,yes
+male,28,2nd,England,no
+female,31,3rd,Hungary,yes
+female,18,3rd,Lebanon,no
+female,45,3rd,Lebanon,no
+male,47,1st,England,yes
+female,30,3rd,Ireland,no
+male,22,3rd,England,no
+female,32,1st,Italy,yes
+male,52,2nd,England,no
+male,23,3rd,Bulgaria,no
+male,60,1st,United States,no
+male,24,1st,Canada,no
+female,50,1st,Canada,yes
+male,32,2nd,England,yes
+female,22,2nd,England,yes
+male,36,1st,Canada,no
+male,44,2nd,England,no
+male,20,3rd,England,no
+male,1,2nd,India,yes
+female,4,2nd,India,yes
+female,12,2nd,India,yes
+female,35,2nd,United States,yes
+male,37,1st,United States,yes
+female,46,1st,United States,yes
+male,34,2nd,England,yes
+male,26,1st,United States,yes
+male,26,3rd,Sweden,no
+female,19,2nd,United States,yes
+male,22,3rd,Finland,no
+male,23,2nd,England,no
+female,39,1st,United States,yes
+female,31,1st,England,yes
+male,21,3rd,Norway,no
+male,25,1st,United States,yes
+female,19,1st,United States,yes
+male,18,3rd,Sweden,no
+male,28,1st,Sweden,yes
+male,45,1st,United States,no
+male,39,1st,United States,yes
+female,30,1st,United States,yes
+female,61,1st,England,yes
+male,41,1st,England,no
+male,25,2nd,United States,no
+female,40,3rd,Ireland,no
+male,42,3rd,Ireland,no
+female,32,3rd,Ireland,no
+female,45,1st,United States,yes
+male,26,3rd,Wales,no
+female,22,1st,England,yes
+male,30,2nd,United States,no
+female,22,3rd,Ireland,yes
+male,41,1st,United States,no
+female,20,3rd,Sweden,no
+male,24,2nd,England,no
+male,48,1st,United States,no
+male,29,3rd,England,no
+male,23,3rd,England,no
+male,37,1st,United States,yes
+male,46,1st,United States,no
+male,20,2nd,France,no
+male,22,3rd,Sweden,no
+male,40,3rd,England,no
+female,18,2nd,England,yes
+female,15,2nd,South Africa,yes
+female,59,1st,United States,yes
+female,40,2nd,South Africa,yes
+female,44,1st,United States,yes
+male,60,2nd,South Africa,no
+female,20,2nd,Sweden,yes
+male,25,2nd,Sweden,no
+female,22,3rd,Ireland,no
+male,21,3rd,Ireland,yes
+female,58,1st,India,yes
+male,7,3rd,Lebanon,no
+female,10,3rd,Lebanon,no
+female,40,3rd,Lebanon,no
+male,19,3rd,Ireland,no
+female,17,3rd,Ireland,no
+female,36,2nd,England,yes
+male,26,2nd,England,no
+male,21,3rd,Lebanon,no
+male,46,1st,United States,no
+male,42,2nd,England,no
+female,40,2nd,United States,yes
+female,21,3rd,Croatia (Modern),no
+female,30,3rd,Croatia (Modern),no
+male,18,3rd,Croatia (Modern),no
+male,38,3rd,Croatia (Modern),no
+male,28,1st,Scotland,no
+male,42,1st,United States,yes
+male,0.833333333,2nd,Siam,yes
+male,26,2nd,Siam,yes
+female,28,2nd,United States,yes
+male,17,3rd,Croatia (Modern),no
+male,17,3rd,Croatia (Modern),no
+female,35,2nd,England,yes
+male,21,2nd,Northern Ireland,no
+female,22,3rd,Ireland,no
+male,21,3rd,Ireland,no
+female,52,1st,United States,yes
+male,29,3rd,England,no
+male,28,3rd,Canada,no
+female,18,3rd,Lebanon,no
+male,19,2nd,England,no
+female,58,1st,United States,yes
+male,36,1st,United States,yes
+male,28,3rd,Sweden,no
+male,24,3rd,Sweden,no
+male,33,1st,United States,no
+male,17,1st,Uruguay,no
+male,27,1st,Uruguay,no
+female,45,3rd,Ireland,no
+male,54,2nd,England,no
+male,11,1st,United States,yes
+female,13,1st,United States,yes
+female,45,2nd,England,no
+female,36,1st,United States,yes
+male,36,1st,United States,yes
+male,28,3rd,England,no
+male,49,1st,United States,no
+female,36,1st,United States,yes
+female,25,1st,United States,yes
+male,36,1st,England,no
+male,46,1st,United States,no
+female,47,1st,United States,yes
+male,27,1st,United States,yes
+female,32,1st,United States,yes
+male,52,2nd,United States,no
+male,37,2nd,England,no
+female,29,2nd,England,no
+male,20,3rd,Ireland,no
+female,30,1st,England,yes
+male,45,1st,Belgium,yes
+female,48,1st,England,yes
+male,43,1st,Scotland,no
+male,29,3rd,England,no
+female,25,2nd,England,yes
+female,52,2nd,England,yes
+male,29,2nd,England,no
+male,28,2nd,England,no
+female,28,2nd,England,yes
+female,26,1st,United States,yes
+male,27,1st,United States,no
+female,22,1st,England,yes
+male,40,1st,United States,no
+male,18,3rd,England,yes
+male,24,3rd,Ireland,no
+male,24,3rd,Bulgaria,no
+male,29,2nd,England,no
+male,27,2nd,Finland,no
+male,25,2nd,England,yes
+male,37,1st,Ireland,no
+female,8,2nd,England,yes
+male,31,2nd,England,no
+female,30,2nd,England,yes
+male,36,3rd,Bulgaria,no
+female,39,1st,United States,yes
+male,37,1st,United States,no
+female,64,1st,United States,yes
+male,31,3rd,United States,no
+male,40,3rd,Ireland,no
+female,23,3rd,Ireland,yes
+female,41,3rd,Ireland,no
+male,66,3rd,Ireland,no
+female,22,2nd,England,yes
+female,30,2nd,United States,no
+male,35,3rd,Croatia (Modern),no
+male,27,3rd,Hungary,no
+male,19,3rd,Hungary,no
+male,30,3rd,Poland,no
+female,55,1st,United States,yes
+female,16,3rd,Ireland,yes
+male,21,2nd,England,no
+male,3,3rd,England,yes
+male,9,3rd,England,yes
+female,36,3rd,England,yes
+male,58,3rd,England,no
+male,59,1st,United States,no
+male,20,3rd,United States,no
+female,16,3rd,United States,yes
+male,43,3rd,Australia,no
+male,70,1st,United States,no
+female,39,1st,United States,yes
+female,64,1st,United States,yes
+male,17,3rd,Croatia (Modern),no
+male,39,1st,United States,no
+female,35,1st,Peru,yes
+male,22,2nd,Northern Ireland,no
+female,22,3rd,Sweden,no
+female,33,3rd,Ireland,yes
+male,29,3rd,Ireland,yes
+male,51,1st,England,yes
+male,0.333333333,3rd,Sweden,no
+male,34,3rd,Sweden,no
+female,28,3rd,Sweden,no
+male,27,1st,United States,yes
+female,36,1st,England,yes
+female,27,1st,Canada,yes
+male,31,1st,Canada,no
+male,8,2nd,England,yes
+male,24,3rd,England,no
+male,19,2nd,England,no
+male,22,3rd,Wales,no
+male,22,3rd,England,no
+male,17,3rd,England,no
+female,48,2nd,England,yes
+female,28,2nd,England,yes
+female,34,3rd,England,yes
+male,32,3rd,England,no
+male,18,2nd,England,no
+male,1,3rd,England,yes
+female,0.166666667,3rd,England,yes
+male,25,3rd,England,no
+female,32,3rd,England,yes
+male,25,3rd,Bosnia,no
+female,24,2nd,Italy,yes
+male,29,2nd,Italy,no
+male,36,3rd,United States,yes
+female,36,3rd,United States,yes
+male,30,3rd,Belgium,yes
+male,25,2nd,Channel Islands,no
+male,22,3rd,England,no
+male,26,3rd,England,no
+male,16,3rd,Belgium,no
+female,19,3rd,Ireland,yes
+male,18,2nd,England,no
+male,31,1st,Canada,yes
+female,17,1st,United States,yes
+male,17,3rd,Croatia (Modern),no
+male,42,3rd,Hungary,no
+male,52,1st,United States,yes
+male,4,1st,United States,yes
+female,34,1st,United States,yes
+female,18,2nd,England,yes
+female,34,2nd,England,yes
+female,21,3rd,Ireland,no
+male,37,3rd,Ireland,no
+male,18,3rd,England,yes
+male,22,3rd,Ireland,no
+female,48,1st,United States,yes
+female,27,1st,Canada,yes
+male,50,1st,United States,no
+male,55,2nd,England,no
+female,31,3rd,United States,yes
+female,28,3rd,Ireland,no
+male,33,3rd,Croatia (Modern),no
+male,8,2nd,United States,yes
+male,42,2nd,England,no
+female,34,2nd,United States,yes
+female,27,3rd,Ireland,yes
+female,24,3rd,England,yes
+female,48,1st,England,yes
+male,49,1st,England,yes
+male,39,1st,United States,no
+male,24,3rd,Channel Islands,yes
+female,27,2nd,Spain,yes
+female,30,2nd,Spain,yes
+male,65,3rd,Ireland,no
+male,23,3rd,United States,no
+female,22,3rd,United States,yes
+female,23,1st,United States,yes
+male,18,3rd,Sweden,no
+male,25,2nd,United States,no
+male,16,3rd,Sweden,no
+male,45,3rd,Sweden,no
+male,15,3rd,Lebanon,no
+male,22,3rd,Lebanon,no
+male,48,3rd,England,no
+female,5,3rd,United States,yes
+male,21,2nd,Sweden,no
+female,39,1st,United States,yes
+female,54,1st,United States,yes
+female,36,1st,United States,no
+male,38,3rd,England,no
+male,18,2nd,Norway,no
+male,46,3rd,England,no
+male,26,3rd,Ireland,no
+male,49,1st,England,no
+male,32,2nd,England,no
+male,18,2nd,England,no
+male,18,3rd,Sweden,no
+female,48,1st,United States,yes
+female,22,3rd,Ireland,no
+female,42,1st,United States,yes
+male,28,3rd,Ireland,no
+male,48,3rd,Ireland,no
+male,36,1st,Canada,yes
+male,19,3rd,Ireland,no
+male,20,3rd,Ireland,no
+female,20,3rd,England,no
+female,7,3rd,England,no
+male,23,3rd,England,no
+male,18,3rd,England,no
+female,54,3rd,Scotland,no
+male,14,3rd,England,no
+male,30,1st,United States,no
+female,24,1st,Canada,yes
+female,28,1st,Canada,yes
+female,23,1st,Canada,yes
+male,19,1st,Canada,no
+male,64,1st,Canada,no
+female,60,1st,Canada,yes
+male,28,3rd,Ireland,no
+male,38,2nd,United States,no
+female,32,1st,England,yes
+male,37,1st,England,no
+male,49,1st,United States,yes
+male,43,1st,United States,yes
+female,42,1st,United States,yes
+female,22,1st,Switzerland,yes
+male,60,1st,Switzerland,yes
+female,48,1st,Switzerland,yes
+male,39,2nd,England,no
+male,39,1st,England,no
+female,38,2nd,India,no
+male,37,1st,England,no
+female,35,1st,England,yes
+male,36,2nd,England,no
+male,38,2nd,England,no
+male,33,2nd,England,no
+male,29,3rd,Ireland,no
+male,23,3rd,England,no
+female,39,2nd,England,yes
+male,19,2nd,England,no
+male,26,2nd,Channel Islands,no
+male,47,1st,England,no
+female,38,3rd,United States,yes
+male,21,3rd,Lebanon,no
+male,NA,3rd,Bulgaria,no
+female,22,1st,United States,yes
+female,44,1st,United States,yes
+male,47,2nd,England,no
+male,19,2nd,England,no
+male,21,2nd,England,no
+male,24,2nd,England,no
+male,23,3rd,Wales,no
+male,31,2nd,Ireland,no
+male,24,2nd,England,no
+female,17,3rd,Ireland,yes
+male,30,2nd,Argentina,no
+female,18,3rd,Ireland,yes
+male,47,1st,United States,yes
+female,40,1st,United States,yes
+male,71,1st,United States,no
+male,9,3rd,England,yes
+male,33,3rd,England,no
+female,31,3rd,England,yes
+male,9,3rd,England,no
+male,1,3rd,England,no
+male,11,3rd,England,no
+female,10,3rd,England,no
+female,16,3rd,England,no
+male,14,3rd,England,no
+male,42,3rd,England,no
+female,43,3rd,England,no
+male,53,1st,United States,yes
+female,19,1st,England,yes
+male,38,1st,Canada,no
+female,59,1st,England,yes
+male,52,2nd,South Africa,no
+female,45,1st,United States,yes
+male,23,1st,United States,yes
+male,41,3rd,England,no
+male,32,3rd,Norway,no
+male,25,3rd,England,no
+male,46,1st,France,no
+male,19,3rd,Finland,no
+male,37,3rd,Finland,no
+male,28,3rd,Finland,no
+male,19,3rd,Sweden,no
+female,24,3rd,Switzerland,no
+male,28,3rd,Norway,no
+male,19,3rd,Norway,no
+male,28,3rd,Finland,no
+female,24,3rd,Finland,yes
+male,30,2nd,England,no
+male,0.583333333,2nd,United States,yes
+female,23,2nd,United States,yes
+male,19,3rd,Belgium,no
+male,27,3rd,Lebanon,yes
+male,18,3rd,Lebanon,no
+male,35,3rd,Lebanon,no
+male,41,3rd,United States,no
+male,26,3rd,Denmark,no
+male,21,3rd,Denmark,no
+female,45,3rd,United States,yes
+male,45,2nd,United States,no
+male,25,1st,United States,yes
+female,21,1st,United States,yes
+female,17,3rd,Ireland,no
+female,21,3rd,England,no
+female,6,2nd,Scotland,yes
+male,48,1st,United States,yes
+female,49,1st,United States,yes
+male,39,2nd,Scotland,no
+male,37,1st,England,no
+male,62,2nd,England,yes
+male,45,1st,United States,no
+female,35,1st,United States,yes
+male,45,2nd,England,no
+male,46,1st,England,no
+female,7,2nd,England,yes
+male,47,2nd,England,no
+male,29,3rd,Ireland,no
+female,48,2nd,England,yes
+male,27,1st,Egypt,yes
+male,45,1st,England,yes
+female,24,1st,United States,yes
+male,55,1st,Canada,no
+female,52,1st,Canada,yes
+male,42,1st,England,no
+female,33,3rd,Ireland,yes
+male,27,3rd,Sweden,yes
+female,20,3rd,Ireland,no
+female,16,3rd,Finland,yes
+female,23,3rd,Finland,no
+female,22,3rd,Sweden,yes
+male,30,3rd,Hungary,no
+female,28,3rd,Sweden,no
+female,21,3rd,Ireland,no
+female,24,2nd,England,yes
+female,24,2nd,England,yes
+male,50,2nd,England,no
+female,50,2nd,India,yes
+female,56,2nd,India,yes
+male,24,2nd,England,no
+male,30,2nd,England,no
+male,21,2nd,England,no
+male,44,1st,England,no
+female,18,2nd,Finland,no
+male,55,1st,England,no
+female,17,1st,United States,yes
+female,44,1st,United States,yes
+female,2,3rd,Finland,yes
+female,22,3rd,Finland,yes
+female,20,2nd,England,yes
+male,24,2nd,England,no
+male,36,2nd,England,no
+female,54,2nd,England,yes
+male,50,2nd,England,no
+female,51,1st,United States,yes
+female,29,2nd,England,yes
+male,44,2nd,England,no
+male,43,3rd,Sweden,no
+male,18,3rd,Norway,no
+male,42,1st,United States,no
+female,35,1st,United States,yes
+male,40,1st,United States,yes
+female,27,3rd,Finland,yes
+male,21,2nd,England,no
+male,41,2nd,Japan,yes
+female,26,3rd,England,yes
+male,63,2nd,England,no
+female,61,2nd,England,no
+male,38,1st,United States,yes
+female,31,1st,United States,yes
+male,43,1st,United States,no
+male,42,3rd,Norway,no
+male,34,2nd,England,no
+male,34,3rd,England,yes
+female,18,3rd,Syria,yes
+male,33,3rd,Lebanon,no
+female,17,2nd,Channel Islands,yes
+female,17,3rd,United States,no
+female,25,3rd,Finland,no
+female,50,1st,United States,no
+male,49,1st,England,yes
+male,20,3rd,Bulgaria,no
+female,24,2nd,England,yes
+male,42,2nd,South Africa,no
+male,30,3rd,Croatia (Modern),yes
+male,21,3rd,Sweden,yes
+male,46,2nd,Wales,no
+male,24,2nd,England,no
+male,21,2nd,England,no
+male,32,2nd,England,no
+male,20,3rd,Denmark,no
+male,48,3rd,Denmark,no
+male,17,3rd,Denmark,no
+female,26,3rd,Ireland,yes
+female,23,2nd,United States,yes
+male,29,3rd,Norway,yes
+male,34,3rd,Finland,no
+male,22,3rd,Sweden,no
+male,33,3rd,Sweden,no
+male,31,3rd,United States,no
+male,29,3rd,United States,no
+male,26,3rd,Sweden,yes
+male,33,3rd,United States,no
+male,19,3rd,United States,no
+male,8,3rd,England,no
+female,7,3rd,England,no
+male,35,3rd,Scotland,no
+female,36,3rd,Scotland,no
+male,46,1st,United States,no
+male,23,3rd,Bulgaria,no
+male,25,3rd,Sweden,yes
+male,27,3rd,Sweden,no
+male,39,3rd,Lebanon,no
+male,50,1st,England,no
+female,20,3rd,Finland,no
+female,21,3rd,Finland,no
+male,32,3rd,Finland,yes
+male,17,3rd,Finland,no
+male,21,3rd,Norway,no
+male,34,2nd,Russia,no
+female,24,2nd,Russia,yes
+male,30,3rd,Hungary,no
+male,21,3rd,Sweden,yes
+male,33,3rd,Sweden,no
+male,22,3rd,Sweden,no
+female,22,2nd,United States,no
+female,5,3rd,Slovenia,yes
+male,39,3rd,United States,yes
+male,19,3rd,Greece,no
+female,46,2nd,Ireland,yes
+male,23,3rd,Ireland,no
+male,35,2nd,Ireland,no
+male,39,3rd,United States,no
+male,33,1st,England,no
+female,20,3rd,Ireland,yes
+female,22,3rd,Ireland,yes
+male,19,3rd,Scotland,no
+male,44,3rd,Ireland,no
+female,49,2nd,England,yes
+male,24,3rd,Ireland,yes
+male,58,1st,United States,no
+male,41,1st,United States,no
+female,40,1st,United States,yes
+male,25,3rd,Lebanon,no
+female,20,3rd,Lebanon,no
+male,25,3rd,Ireland,no
+male,22,3rd,Ireland,no
+male,22,3rd,Ireland,no
+male,42,1st,United States,yes
+female,45,1st,United States,yes
+female,4,3rd,Switzerland,yes
+female,26,3rd,Switzerland,yes
+female,23,3rd,Switzerland,no
+male,29,3rd,Switzerland,yes
+male,26,3rd,Switzerland,no
+male,52,2nd,United States,no
+male,41,1st,United States,no
+female,1,3rd,Sweden,no
+male,18,3rd,Sweden,no
+female,36,3rd,Sweden,no
+male,41,2nd,Northern Ireland,no
+male,NA,3rd,Bulgaria,no
+male,26,3rd,Scotland,no
+male,31,2nd,Sweden,no
+male,35,3rd,Lebanon,no
+male,35,2nd,United States,no
+female,34,2nd,United States,no
+female,37,3rd,Finland,no
+male,31,2nd,Ireland,no
+male,38,3rd,China/Hong Kong,yes
+female,22,3rd,Sweden,yes
+male,17,3rd,Ireland,no
+female,1,2nd,France,yes
+female,3,2nd,France,yes
+male,25,2nd,France,no
+female,22,2nd,France,yes
+male,29,3rd,United States,no
+male,29,3rd,Sweden,no
+male,22,3rd,Sweden,no
+female,49,1st,United States,yes
+female,17,2nd,Switzerland,yes
+male,32,3rd,Finland,no
+female,31,2nd,Scotland,yes
+female,39,2nd,England,yes
+female,18,3rd,Ireland,no
+male,20,3rd,Ireland,no
+female,27,1st,France,yes
+male,41,3rd,England,no
+male,37,2nd,Canada,no
+male,30,1st,United States,no
+male,25,2nd,England,no
+male,24,3rd,Belgium,no
+female,25,3rd,Sweden,no
+female,45,3rd,England,no
+male,42,1st,Sweden,no
+male,36,3rd,Sweden,no
+female,30,3rd,Sweden,no
+male,20,3rd,Finland,yes
+female,55,1st,Sweden,yes
+male,21,3rd,Ireland,no
+female,16,1st,France,yes
+female,50,1st,United States,yes
+male,61,2nd,Ireland,no
+male,27,3rd,Austria,no
+male,25,3rd,Latvia,no
+female,34,3rd,England,no
+male,31,3rd,England,no
+male,19,3rd,England,no
+female,21,1st,United States,yes
+male,29,1st,United States,no
+male,30,1st,United States,no
+male,50,2nd,England,no
+female,43,2nd,England,yes
+male,20,3rd,England,no
+male,29,3rd,Croatia (Modern),yes
+male,50,3rd,Sweden,no
+female,23,3rd,United States,yes
+male,32,3rd,Sweden,yes
+female,59,1st,France,yes
+male,30,3rd,Greece,no
+male,20,3rd,Scotland,no
+female,57,2nd,England,no
+female,21,3rd,Ireland,yes
+female,16,1st,United States,yes
+male,24,3rd,Norway,yes
+male,22,3rd,Finland,no
+male,30,1st,United States,no
+female,20,3rd,Ireland,no
+female,20,1st,England,yes
+male,34,3rd,England,no
+male,29,3rd,Finland,no
+male,25,2nd,France,no
+male,1,2nd,France,yes
+male,45,2nd,France,no
+female,24,2nd,France,yes
+male,18,3rd,Lebanon,yes
+female,32,3rd,Ireland,no
+male,30,2nd,United States,no
+female,28,3rd,Ireland,yes
+male,25,3rd,Turkey,no
+male,29,1st,France,yes
+male,23,3rd,Yugoslavia,no
+male,35,3rd,Bulgaria,no
+male,33,3rd,Slovenia,no
+male,18,1st,United States,no
+female,18,1st,Scotland,yes
+male,30,3rd,Bulgaria,no
+male,23,2nd,England,no
+male,36,2nd,England,no
+female,24,1st,Belgium,yes
+male,46,1st,Canada,no
+female,25,3rd,Ireland,yes
+male,55,1st,United States,no
+male,19,3rd,United States,yes
+female,29,3rd,Ireland,yes
+female,26,3rd,Ireland,yes
+male,24,3rd,Ireland,yes
+male,32,2nd,Australia,no
+male,32,2nd,Canada,no
+female,31,3rd,Ireland,yes
+male,20,3rd,Ireland,no
+male,35,1st,Ireland,yes
+female,22,3rd,Ireland,yes
+female,17,3rd,United States,yes
+female,42,3rd,Ireland,no
+male,46,2nd,Channel Islands,no
+male,19,3rd,Ireland,no
+male,27,3rd,England,no
+female,19,3rd,England,no
+female,32,3rd,Ireland,no
+female,62,3rd,England,no
+male,22,3rd,Ireland,no
+female,32,3rd,England,no
+female,13,2nd,England,yes
+female,42,2nd,England,yes
+male,19,2nd,England,yes
+male,48,3rd,Italy,no
+male,28,3rd,Ireland,no
+male,31,2nd,England,no
+male,28,1st,United States,no
+female,25,1st,United States,yes
+male,21,3rd,Norway,yes
+male,28,3rd,Bulgaria,no
+male,23,3rd,England,no
+male,65,1st,United States,no
+male,48,2nd,Denmark,no
+male,44,1st,United States,no
+female,33,1st,United States,yes
+female,37,1st,United States,yes
+male,21,3rd,Bulgaria,no
+male,72,2nd,England,no
+female,23,3rd,Ireland,yes
+male,30,1st,United States,yes
+male,27,3rd,Norway,no
+male,55,1st,Canada,no
+male,27,2nd,England,no
+male,47,1st,United States,no
+male,19,3rd,England,no
+female,28,3rd,Ireland,yes
+male,28,3rd,Ireland,no
+male,54,2nd,United States,no
+male,38,2nd,England,no
+male,34,3rd,England,no
+male,30,3rd,Ireland,no
+male,29,3rd,Norway,yes
+female,35,3rd,Lebanon,yes
+male,28,3rd,England,no
+male,4,3rd,Lebanon,yes
+male,7,3rd,Lebanon,yes
+female,25,3rd,Lebanon,yes
+male,17,2nd,England,no
+female,21,3rd,Ireland,yes
+female,25,3rd,Ireland,yes
+male,22,3rd,England,no
+female,18,3rd,Ireland,yes
+female,25,3rd,Ireland,yes
+female,31,3rd,Ireland,yes
+female,22,3rd,Lebanon,yes
+male,18,3rd,Sweden,no
+male,63,2nd,Ireland,no
+male,22,3rd,Bulgaria,no
+female,15,3rd,Lebanon,yes
+male,17,3rd,Lebanon,no
+female,1,3rd,Lebanon,yes
+male,21,3rd,Lebanon,yes
+female,19,3rd,Lebanon,yes
+male,36,3rd,England,no
+male,20,3rd,Lebanon,no
+male,28,2nd,United States,no
+female,14,2nd,Lebanon,yes
+male,20,3rd,Lebanon,no
+male,36,1st,United States,no
+female,21,3rd,Ireland,no
+male,2,2nd,France,yes
+male,3,2nd,France,yes
+male,32,2nd,Slovakia (Modern day),no
+male,26,2nd,England,no
+female,31,1st,United States,yes
+female,23,1st,United States,yes
+male,58,1st,United States,no
+female,19,1st,United States,yes
+male,19,2nd,England,no
+male,60,1st,England,no
+female,29,3rd,Finland,no
+male,28,3rd,Sweden,no
+female,18,3rd,Sweden,yes
+female,26,3rd,Sweden,yes
+male,21,3rd,Sweden,no
+male,11,3rd,Lebanon,yes
+female,14,3rd,Lebanon,yes
+male,41,3rd,Finland,no
+male,39,3rd,United States,yes
+male,20,3rd,Lebanon,no
+male,27,2nd,Scotland,no
+male,21,3rd,England,no
+male,20,1st,Germany,yes
+female,29,2nd,United States,yes
+female,22,3rd,Sweden,yes
+male,60,3rd,Norway,no
+male,21,3rd,Ireland,no
+female,26,3rd,Ireland,yes
+male,27,3rd,Ireland,no
+male,18,3rd,Ireland,no
+male,17,3rd,Ireland,no
+male,23,3rd,Ireland,no
+male,23,3rd,Sweden,no
+female,24,3rd,Ireland,yes
+female,22,3rd,Sweden,yes
+male,21,3rd,Ireland,yes
+female,16,3rd,Ireland,yes
+female,39,1st,Spain,yes
+male,9,3rd,Norway,yes
+male,28,3rd,Norway,no
+male,42,3rd,United States,no
+male,27,3rd,Norway,no
+female,31,3rd,Sweden,no
+male,28,3rd,Sweden,no
+male,32,3rd,Sweden,yes
+male,20,3rd,Norway,no
+male,29,1st,France,yes
+female,23,3rd,Croatia,no
+female,20,3rd,Croatia,no
+male,20,3rd,Croatia,no
+male,16,3rd,Sweden,no
+female,22,1st,United States,yes
+male,64,1st,United States,no
+female,21,3rd,Ireland,no
+male,38,2nd,United States,no
+male,36,1st,Cuba,no
+male,22,2nd,England,yes
+male,27,2nd,Spain,yes
+male,23,2nd,Canada,no
+male,29,2nd,Spain,yes
+male,2,3rd,Sweden,no
+male,6,3rd,Sweden,no
+female,3,3rd,Sweden,no
+female,8,3rd,Sweden,no
+female,29,3rd,Sweden,no
+male,1,3rd,Finland,no
+male,15,3rd,United States,no
+male,7,3rd,Finland,no
+male,2,3rd,Finland,no
+male,16,3rd,Finland,no
+female,41,3rd,Finland,no
+male,17,2nd,Channel Islands,no
+male,21,2nd,Northern Ireland,no
+female,59,2nd,United States,yes
+male,30,1st,England,no
+male,40,1st,England,no
+male,21,3rd,Slovenia,no
+male,20,3rd,England,no
+male,32,3rd,Croatia,no
+male,23,1st,Canada,no
+male,0.583333333,3rd,England,no
+female,4,3rd,England,no
+female,26,3rd,England,no
+male,32,3rd,England,no
+female,22,1st,England,yes
+male,29,1st,England,no
+male,28,3rd,Norway,no
+male,24,3rd,England,no
+male,21,3rd,Finland,no
+male,25,3rd,Finland,no
+female,22,1st,Spain,yes
+male,24,1st,Spain,no
+male,19,2nd,England,no
+male,24,3rd,England,no
+male,39,2nd,France,no
+female,33,1st,Canada,yes
+male,25,3rd,Sweden,yes
+male,41,2nd,Germany,no
+female,28,3rd,Croatia,no
+male,4,3rd,Lebanon,yes
+female,2,3rd,Lebanon,yes
+male,24,3rd,England,no
+female,28,3rd,Ireland,no
+male,19,3rd,Bulgaria,no
+male,29,3rd,Bulgaria,no
+female,18,3rd,Sweden,no
+male,25,3rd,Sweden,no
+male,52,1st,Canada,yes
+female,21,2nd,England,yes
+female,19,2nd,England,yes
+male,43,2nd,England,no
+male,33,3rd,Poland,yes
+female,32,2nd,Poland,yes
+male,17,3rd,Croatia,no
+male,24,3rd,Croatia,no
+male,24,2nd,England,no
+male,30,2nd,United States,yes
+male,46,1st,United States,no
+female,56,1st,United States,yes
+male,27,2nd,United States,no
+male,21,3rd,Lebanon,no
+female,63,3rd,Norway,no
+male,30,3rd,Lebanon,no
+male,18,3rd,Wales,no
+male,36,2nd,England,no
+male,38,3rd,Bosnia,no
+male,33,2nd,Channel Islands,no
+female,30,2nd,Channel Islands,yes
+male,37,1st,Netherlands,no
+female,29,2nd,Spain,yes
+male,21,3rd,England,no
+male,33,1st,United States,yes
+male,10,3rd,Ireland,no
+male,4,3rd,Ireland,no
+male,7,3rd,Ireland,no
+male,2,3rd,Ireland,no
+male,8,3rd,Ireland,no
+female,39,3rd,Ireland,no
+male,0.75,2nd,England,yes
+male,3,2nd,England,yes
+female,24,2nd,England,yes
+female,58,2nd,England,yes
+female,22,3rd,Finland,no
+male,35,3rd,Finland,no
+female,22,3rd,Ireland,yes
+male,69,3rd,England,no
+female,64,3rd,England,no
+female,43,1st,United States,yes
+male,50,3rd,England,no
+female,48,3rd,England,no
+male,45,1st,England,no
+male,31,1st,United States,no
+male,18,2nd,England,no
+male,30,3rd,Wales,no
+male,45,1st,United States,yes
+male,49,3rd,Norway,no
+male,39,1st,United States,no
+female,2,3rd,Finland,no
+female,41,3rd,Finland,no
+male,18,3rd,Finland,no
+female,33,1st,France,yes
+male,46,1st,United States,no
+male,36,1st,Canada,no
+female,33,1st,England,yes
+female,26,3rd,Austria,yes
+male,46,1st,United States,no
+female,54,1st,United States,yes
+male,55,3rd,England,no
+male,59,1st,Peru,no
+female,22,2nd,Channel Islands,yes
+male,17,3rd,England,no
+male,24,3rd,Ireland,yes
+male,30,3rd,Ireland,no
+male,13,1st,United States,yes
+female,18,1st,United States,yes
+female,21,1st,United States,yes
+male,61,1st,United States,no
+female,48,1st,United States,yes
+male,30,3rd,Lebanon,no
+male,27,3rd,Lebanon,no
+male,47,1st,England,yes
+male,19,3rd,Ireland,no
+male,17,3rd,England,no
+male,43,3rd,Norway,no
+male,13,3rd,England,no
+male,5,3rd,England,no
+female,8,3rd,England,no
+female,14,3rd,England,no
+female,10,3rd,England,no
+female,21,3rd,England,no
+male,18,3rd,England,no
+male,17,3rd,England,no
+male,20,3rd,England,no
+male,45,3rd,England,no
+female,45,3rd,England,no
+male,24,3rd,Sweden,no
+female,21,3rd,Norway,yes
+male,43,1st,United States,yes
+male,29,3rd,United States,no
+male,17,3rd,Lebanon,no
+male,40,3rd,Lebanon,no
+male,16,3rd,Lebanon,no
+female,1,3rd,Sweden,yes
+female,4,3rd,Sweden,yes
+female,24,3rd,Sweden,yes
+male,21,3rd,Belgium,yes
+male,19,3rd,England,no
+male,24,3rd,England,no
+male,22,3rd,Ireland,no
+female,35,1st,Germany,yes
+male,29,3rd,Belgium,yes
+male,22,2nd,England,no
+male,28,2nd,England,no
+male,10,3rd,Lebanon,no
+male,34,1st,United States,yes
+male,29,2nd,England,no
+male,27,3rd,Ireland,no
+male,55,3rd,England,no
+female,25,2nd,United States,yes
+male,26,3rd,Lebanon,no
+female,20,3rd,Ireland,yes
+male,22,3rd,England,no
+female,40,1st,United States,yes
+female,17,2nd,Finland,yes
+male,35,1st,United States,yes
+female,39,1st,United States,yes
+male,51,1st,United States,no
+male,40,3rd,England,no
+male,56,1st,Switzerland,yes
+female,20,2nd,England,yes
+female,30,2nd,Finland,yes
+male,22,3rd,Turkey,no
+male,20,3rd,England,no
+male,40,3rd,Bosnia,no
+male,21,3rd,United States,no
+female,18,3rd,Finland,yes
+male,59,2nd,Sweden,no
+male,5,3rd,United States,no
+male,11,3rd,United States,no
+female,9,3rd,United States,no
+female,2,3rd,United States,no
+female,43,3rd,Sweden,no
+male,40,3rd,Sweden,no
+female,30,2nd,Canada,yes
+male,35,2nd,England,no
+male,20,3rd,England,no
+male,28,1st,United States,yes
+male,56,1st,England,no
+male,37,3rd,Croatia,no
+female,49,2nd,England,yes
+male,56,1st,France,no
+male,24,1st,United States,no
+male,57,1st,England,no
+female,18,1st,United States,yes
+female,18,3rd,Ireland,yes
+male,27,3rd,Ireland,no
+male,24,1st,United States,yes
+female,23,1st,United States,yes
+male,25,2nd,England,no
+male,19,3rd,Norway,no
+male,31,3rd,England,no
+male,23,3rd,England,no
+male,6,1st,United States,yes
+male,45,1st,United States,yes
+female,39,1st,United States,yes
+female,48,1st,United States,yes
+male,57,1st,United States,no
+male,31,3rd,England,no
+male,32,1st,Switzerland,yes
+male,23,3rd,Bulgaria,no
+male,33,3rd,Croatia,no
+female,24,3rd,England,yes
+male,22,3rd,England,no
+male,42,2nd,United States,no
+male,62,1st,England,no
+male,54,1st,United States,yes
+female,43,1st,Ireland,yes
+female,52,1st,United States,yes
+male,64,1st,United States,no
+male,24,2nd,England,no
+female,61,1st,United States,yes
+male,59,3rd,England,no
+male,19,3rd,Bulgaria,no
+female,22,3rd,Finland,no
+male,30,3rd,Finland,yes
+male,67,1st,United States,no
+female,63,1st,Germany,no
+male,27,3rd,Croatia,no
+female,2,3rd,United States,no
+female,29,3rd,Sweden,no
+male,20,3rd,England,yes
+male,44,3rd,Finland,yes
+male,25,3rd,England,no
+male,61,1st,England,no
+male,74,3rd,Sweden,no
+male,14,3rd,Sweden,yes
+male,24,3rd,Sweden,no
+male,19,2nd,England,no
+male,14,2nd,England,no
+female,46,1st,United States,yes
+male,0.416666667,3rd,Lebanon,yes
+male,30,3rd,Lebanon,no
+female,16,3rd,Lebanon,yes
+female,18,1st,United States,yes
+male,52,1st,United States,no
+female,39,1st,United States,yes
+male,48,1st,United States,yes
+female,49,1st,United States,yes
+male,25,3rd,Sweden,yes
+male,49,1st,United States,no
+male,17,1st,United States,yes
+female,39,1st,United States,yes
+male,34,3rd,England,no
+male,37,3rd,Scotland,no
+female,38,1st,United States,yes
+male,37,3rd,England,no
+female,33,3rd,England,yes
+male,32,3rd,Finland,no
+male,20,3rd,Ireland,no
+male,23,3rd,Bulgaria,no
+male,22,3rd,England,no
+female,48,2nd,Ireland,yes
+male,41,3rd,England,no
+male,20,3rd,Lebanon,no
+male,26,3rd,Sweden,yes
+male,25,3rd,Bulgaria,no
+male,23,2nd,England,no
+female,27,2nd,Scotland,yes
+female,27,2nd,England,yes
+male,31,1st,United States,yes
+male,8,3rd,Lebanon,yes
+female,9,3rd,Lebanon,yes
+female,27,3rd,Lebanon,yes
+male,36,3rd,Croatia,no
+female,18,3rd,Finland,yes
+female,63,3rd,Finland,yes
+female,26,2nd,England,no
+male,29,2nd,England,no
+male,39,1st,Mexico,no
+male,10,3rd,England,no
+male,9,3rd,England,no
+male,35,3rd,England,no
+male,28,3rd,Belgium,no
+male,46,3rd,Belgium,no
+male,61,1st,United States,no
+female,18,3rd,Belgium,no
+male,31,3rd,Belgium,no
+male,15,3rd,Belgium,no
+female,31,3rd,Belgium,no
+male,35,3rd,Belgium,no
+male,28,3rd,Belgium,no
+female,10,3rd,Belgium,no
+male,36,3rd,Belgium,no
+female,30,3rd,Belgium,no
+male,23,3rd,Belgium,no
+male,22,3rd,Turkey,yes
+male,40,2nd,United States,no
+male,20,3rd,Sweden,no
+female,14,3rd,Sweden,no
+male,21,3rd,Slovenia,no
+male,22,3rd,Belgium,no
+male,48,1st,United States,no
+female,36,2nd,England,yes
+male,35,3rd,England,no
+male,47,2nd,England,no
+female,32,2nd,England,yes
+male,23,2nd,England,no
+male,31,3rd,England,no
+male,63,1st,United States,no
+female,60,1st,England,yes
+male,19,2nd,Northern Ireland,no
+female,12,2nd,Scotland,yes
+female,40,2nd,Scotland,yes
+male,23,3rd,Lebanon,no
+female,37,2nd,England,yes
+male,66,3rd,England,no
+male,59,1st,United States,no
+male,37,2nd,Hungary,no
+female,37,2nd,England,yes
+male,2,2nd,England,yes
+female,4,2nd,England,yes
+female,29,2nd,England,yes
+male,27,3rd,Sweden,yes
+female,0.833333333,2nd,England,yes
+female,4,2nd,England,yes
+male,36,2nd,England,no
+female,33,2nd,England,yes
+male,65,2nd,England,no
+male,26,2nd,England,no
+male,31,2nd,England,yes
+male,54,1st,United States,no
+male,21,1st,United States,no
+male,57,1st,United States,no
+female,31,1st,United States,yes
+female,45,1st,United States,yes
+male,51,3rd,Sweden,no
+male,50,1st,United States,no
+male,27,1st,United States,no
+female,50,1st,United States,yes
+male,18,3rd,Finland,no
+male,21,3rd,Finland,no
+female,47,3rd,England,yes
+female,30,2nd,England,yes
+female,21,1st,United States,yes
+male,21,3rd,Wales,no
+male,51,1st,Switzerland,no
+male,23,2nd,England,yes
+male,43,1st,United States,no
+male,28,3rd,England,no
+male,28,3rd,Wales,no
+male,21,1st,Switzerland,yes
+male,21,3rd,South Africa,no
+male,27,3rd,Switzerland,no
+male,54,3rd,England,no
+male,36,3rd,Belgium,no
+male,46,1st,England,yes
+female,26,2nd,England,yes
+male,62,1st,Canada,no
+male,27,3rd,Lebanon,no
+female,15,3rd,Lebanon,yes
+female,36,1st,United States,yes
+male,26,3rd,Lebanon,no
+male,45,3rd,Lebanon,no
+female,23,3rd,Lebanon,yes
+female,24,2nd,France,no
+male,22,3rd,Turkey,no
+male,27,3rd,Turkey,no
+male,25,3rd,Lebanon,yes
+male,29,3rd,Germany,no
+male,21,victualling crew,England,no
+male,34,engineering crew,England,no
+male,26,engineering crew,England,no
+male,20,victualling crew,Channel Islands,no
+male,31,victualling crew,England,no
+male,37,victualling crew,England,no
+male,22,restaurant staff,England,no
+male,24,engineering crew,England,yes
+male,17,victualling crew,England,no
+male,26,victualling crew,England,no
+male,30,engineering crew,England,no
+male,36,victualling crew,England,no
+male,36,engineering crew,England,no
+male,41,victualling crew,England,no
+male,40,deck crew,England,yes
+male,48,victualling crew,England,no
+male,19,victualling crew,England,yes
+male,35,deck crew,England,yes
+male,26,victualling crew,England,no
+male,41,victualling crew,Ireland,no
+male,26,restaurant staff,England,no
+male,21,engineering crew,England,yes
+male,23,victualling crew,England,no
+male,37,victualling crew,England,no
+male,28,victualling crew,England,yes
+male,33,victualling crew,England,no
+male,36,victualling crew,England,no
+male,46,engineering crew,Wales,no
+male,46,deck crew,England,yes
+male,24,engineering crew,England,no
+male,19,victualling crew,England,yes
+male,24,restaurant staff,England,no
+male,34,engineering crew,England,no
+male,19,victualling crew,England,no
+male,41,victualling crew,England,no
+male,42,victualling crew,England,no
+male,30,engineering crew,England,no
+male,36,victualling crew,England,no
+male,29,engineering crew,England,no
+male,40,victualling crew,England,no
+male,40,engineering crew,England,no
+male,16,victualling crew,England,no
+male,28,engineering crew,England,yes
+male,33,engineering crew,England,no
+male,34,victualling crew,England,no
+male,36,victualling crew,England,no
+male,32,victualling crew,England,no
+male,26,victualling crew,England,no
+male,27,restaurant staff,England,no
+male,53,victualling crew,England,no
+male,55,victualling crew,Scotland,no
+male,33,restaurant staff,England,no
+male,35,engineering crew,Northern Ireland,no
+male,24,engineering crew,England,yes
+male,31,victualling crew,England,no
+male,35,victualling crew,England,no
+male,19,victualling crew,England,no
+male,51,engineering crew,England,no
+male,24,engineering crew,England,no
+male,30,victualling crew,England,no
+male,30,engineering crew,England,no
+female,33,victualling crew,England,yes
+male,47,engineering crew,England,no
+male,22,restaurant staff,England,no
+male,31,victualling crew,England,no
+male,39,engineering crew,England,no
+male,40,victualling crew,England,no
+male,26,restaurant staff,England,no
+male,22,engineering crew,England,no
+male,31,engineering crew,England,no
+male,28,restaurant staff,England,no
+male,20,engineering crew,England,no
+male,20,engineering crew,England,no
+male,20,engineering crew,England,yes
+male,34,victualling crew,England,no
+male,23,engineering crew,England,no
+male,28,engineering crew,England,no
+male,41,engineering crew,England,no
+male,23,engineering crew,England,yes
+male,26,engineering crew,England,no
+male,37,engineering crew,England,no
+male,32,engineering crew,Northern Ireland,no
+male,22,engineering crew,England,no
+female,45,victualling crew,Switzerland,yes
+male,26,restaurant staff,England,no
+male,30,victualling crew,England,no
+male,43,restaurant staff,England,no
+male,59,victualling crew,Scotland,no
+male,27,restaurant staff,England,no
+male,40,victualling crew,England,no
+male,38,victualling crew,England,no
+male,33,victualling crew,England,no
+male,46,engineering crew,England,no
+male,24,victualling crew,England,no
+female,31,restaurant staff,England,yes
+male,28,deck crew,England,yes
+male,37,victualling crew,England,no
+male,36,victualling crew,England,no
+male,39,engineering crew,England,no
+male,29,deck crew,England,no
+male,43,victualling crew,England,no
+male,30,engineering crew,England,no
+male,52,victualling crew,England,no
+male,34,engineering crew,England,no
+male,43,deck crew,England,yes
+male,22,victualling crew,England,yes
+male,42,deck crew,England,yes
+male,38,victualling crew,NA,no
+male,31,victualling crew,England,no
+male,28,victualling crew,England,no
+male,25,engineering crew,England,no
+male,31,victualling crew,England,no
+male,33,victualling crew,England,no
+male,34,victualling crew,Wales,yes
+male,28,engineering crew,Wales,no
+male,25,engineering crew,England,no
+male,41,victualling crew,England,no
+male,34,victualling crew,England,no
+male,26,deck crew,England,yes
+male,22,victualling crew,England,no
+male,37,victualling crew,England,no
+male,21,victualling crew,England,no
+male,18,victualling crew,England,yes
+male,30,victualling crew,England,no
+male,31,victualling crew,Ireland,yes
+male,20,victualling crew,England,yes
+male,29,victualling crew,England,no
+male,35,engineering crew,England,no
+male,35,engineering crew,England,no
+male,23,victualling crew,England,no
+male,22,victualling crew,England,no
+male,31,engineering crew,England,no
+male,45,victualling crew,England,no
+male,30,engineering crew,Northern Ireland,no
+male,25,victualling crew,Australia,no
+male,40,engineering crew,England,no
+male,31,victualling crew,England,no
+male,27,engineering crew,England,no
+male,46,engineering crew,England,no
+male,33,victualling crew,England,no
+male,32,restaurant staff,Italy,no
+male,44,engineering crew,England,no
+male,34,victualling crew,England,no
+male,37,engineering crew,England,no
+female,33,victualling crew,England,yes
+male,28,victualling crew,England,no
+male,22,engineering crew,England,yes
+male,39,victualling crew,England,no
+male,21,victualling crew,England,no
+male,25,restaurant staff,England,no
+male,32,victualling crew,England,yes
+male,25,victualling crew,England,no
+male,25,engineering crew,England,no
+male,28,victualling crew,England,no
+male,37,engineering crew,England,no
+male,29,victualling crew,England,no
+male,50,victualling crew,England,no
+male,25,engineering crew,England,no
+male,34,victualling crew,England,no
+male,40,engineering crew,Ireland,yes
+male,33,deck crew,England,yes
+male,31,deck crew,England,no
+male,22,engineering crew,England,no
+male,29,victualling crew,England,no
+male,58,engineering crew,Ireland,no
+male,33,victualling crew,England,yes
+male,17,victualling crew,Northern Ireland,yes
+male,38,engineering crew,England,yes
+male,34,engineering crew,England,yes
+male,25,victualling crew,England,no
+male,32,victualling crew,England,no
+male,45,victualling crew,England,no
+male,26,engineering crew,England,no
+male,26,engineering crew,England,no
+male,28,engineering crew,England,no
+male,27,victualling crew,England,no
+male,33,engineering crew,England,no
+male,19,restaurant staff,England,no
+male,36,engineering crew,England,no
+male,28,deck crew,England,no
+male,49,engineering crew,England,no
+male,30,engineering crew,England,yes
+male,28,restaurant staff,France,no
+male,30,victualling crew,England,no
+male,27,engineering crew,England,no
+male,23,engineering crew,England,no
+male,20,victualling crew,England,yes
+male,43,victualling crew,England,yes
+male,45,engineering crew,England,no
+male,21,engineering crew,England,yes
+male,33,victualling crew,England,no
+male,39,victualling crew,England,no
+male,45,victualling crew,England,no
+male,44,engineering crew,England,no
+male,17,restaurant staff,England,no
+male,30,victualling crew,England,yes
+male,35,victualling crew,England,no
+male,49,victualling crew,England,yes
+male,38,victualling crew,Scotland,yes
+male,35,engineering crew,England,no
+male,26,engineering crew,England,no
+male,18,victualling crew,England,yes
+male,18,victualling crew,England,no
+male,32,victualling crew,England,no
+male,26,victualling crew,Wales,no
+male,33,engineering crew,England,no
+male,29,victualling crew,England,no
+male,39,deck crew,England,no
+male,23,engineering crew,England,no
+male,19,victualling crew,England,no
+male,18,restaurant staff,England,no
+male,35,victualling crew,England,no
+male,20,restaurant staff,England,no
+male,29,victualling crew,England,no
+male,38,victualling crew,England,no
+male,20,restaurant staff,England,no
+male,27,engineering crew,England,yes
+male,37,engineering crew,England,no
+male,30,engineering crew,England,yes
+male,34,engineering crew,England,yes
+male,49,victualling crew,England,no
+male,39,engineering crew,England,no
+male,44,victualling crew,England,no
+male,27,engineering crew,Guyana,no
+male,22,engineering crew,England,yes
+male,39,victualling crew,England,no
+male,17,restaurant staff,Italy,no
+male,35,victualling crew,England,no
+male,23,engineering crew,England,yes
+male,20,restaurant staff,England,no
+male,22,victualling crew,England,no
+male,27,engineering crew,England,no
+male,36,engineering crew,Ireland,no
+male,48,victualling crew,England,no
+male,38,engineering crew,England,no
+male,24,engineering crew,India,no
+male,33,victualling crew,England,no
+male,41,engineering crew,England,yes
+male,22,engineering crew,England,no
+male,44,engineering crew,England,no
+male,23,victualling crew,England,no
+male,23,victualling crew,England,no
+male,39,victualling crew,England,no
+male,39,victualling crew,Wales,no
+male,48,victualling crew,England,no
+male,23,engineering crew,England,no
+male,29,victualling crew,England,yes
+male,34,victualling crew,England,no
+male,18,engineering crew,Northern Ireland,no
+male,43,victualling crew,England,yes
+male,25,deck crew,England,yes
+male,27,deck crew,England,yes
+male,27,victualling crew,England,no
+male,33,engineering crew,England,no
+male,38,victualling crew,England,no
+male,22,victualling crew,England,no
+male,39,engineering crew,England,no
+male,37,victualling crew,England,yes
+male,30,engineering crew,England,no
+male,29,victualling crew,England,no
+male,42,victualling crew,England,no
+male,33,engineering crew,England,no
+male,39,engineering crew,England,no
+male,30,restaurant staff,England,no
+male,19,victualling crew,England,no
+male,23,restaurant staff,England,no
+male,21,engineering crew,England,yes
+male,29,engineering crew,England,no
+male,52,engineering crew,England,yes
+male,24,deck crew,England,yes
+male,26,victualling crew,England,no
+male,46,deck crew,Ireland,yes
+male,22,victualling crew,Wales,yes
+male,33,victualling crew,England,no
+male,44,victualling crew,England,no
+male,22,engineering crew,England,no
+male,33,engineering crew,England,no
+male,27,deck crew,England,yes
+male,37,engineering crew,England,no
+male,27,victualling crew,England,no
+male,28,victualling crew,England,no
+male,30,engineering crew,England,no
+male,30,engineering crew,Scotland,no
+male,21,engineering crew,England,yes
+male,45,victualling crew,England,no
+male,29,engineering crew,England,yes
+male,37,restaurant staff,England,no
+male,32,victualling crew,England,no
+male,26,engineering crew,England,no
+male,36,victualling crew,England,yes
+male,31,restaurant staff,England,no
+male,32,victualling crew,England,no
+male,38,victualling crew,England,no
+male,38,victualling crew,England,no
+male,61,engineering crew,England,yes
+male,36,engineering crew,England,no
+male,32,engineering crew,England,no
+female,45,victualling crew,England,yes
+male,28,victualling crew,England,no
+male,29,engineering crew,England,no
+male,41,engineering crew,England,no
+male,40,victualling crew,England,no
+male,22,engineering crew,England,no
+male,26,engineering crew,England,no
+male,22,engineering crew,England,no
+male,28,engineering crew,Northern Ireland,yes
+male,43,engineering crew,England,no
+female,45,victualling crew,England,yes
+male,24,restaurant staff,England,no
+male,24,engineering crew,England,no
+male,30,victualling crew,England,no
+male,29,victualling crew,England,yes
+male,37,victualling crew,United States,no
+male,35,engineering crew,Northern Ireland,yes
+male,31,deck crew,England,yes
+male,22,victualling crew,England,yes
+male,23,engineering crew,England,no
+male,41,victualling crew,England,no
+male,32,engineering crew,England,no
+male,47,victualling crew,England,no
+male,25,victualling crew,England,no
+male,54,engineering crew,Ireland,no
+male,30,engineering crew,England,no
+male,39,deck crew,England,yes
+male,21,victualling crew,England,no
+male,21,victualling crew,England,yes
+male,40,victualling crew,England,yes
+male,24,engineering crew,England,no
+male,19,victualling crew,England,no
+male,17,victualling crew,England,no
+male,29,engineering crew,England,no
+male,17,victualling crew,England,no
+male,39,engineering crew,England,yes
+male,40,victualling crew,England,yes
+male,38,engineering crew,England,no
+male,54,engineering crew,England,no
+male,32,victualling crew,England,yes
+male,21,victualling crew,England,yes
+male,34,engineering crew,Northern Ireland,no
+male,23,victualling crew,England,no
+male,52,victualling crew,England,no
+male,43,victualling crew,England,no
+male,45,victualling crew,England,no
+male,24,engineering crew,England,no
+male,22,engineering crew,England,yes
+male,30,victualling crew,England,no
+male,43,deck crew,England,yes
+male,28,engineering crew,England,yes
+male,40,victualling crew,England,no
+male,26,victualling crew,England,no
+male,33,engineering crew,England,no
+male,45,engineering crew,England,no
+male,37,victualling crew,England,no
+male,29,deck crew,England,yes
+male,36,victualling crew,England,no
+male,25,engineering crew,England,no
+male,43,victualling crew,England,no
+male,40,victualling crew,England,no
+male,36,victualling crew,England,no
+male,31,engineering crew,England,no
+male,25,victualling crew,England,no
+male,19,victualling crew,England,no
+male,29,engineering crew,England,no
+male,26,engineering crew,England,no
+male,46,engineering crew,England,no
+male,43,victualling crew,England,no
+male,29,deck crew,England,yes
+male,22,victualling crew,England,no
+male,28,victualling crew,England,no
+male,24,victualling crew,England,no
+male,29,deck crew,England,no
+male,29,engineering crew,England,no
+male,15,victualling crew,England,no
+male,40,deck crew,England,yes
+male,33,deck crew,England,yes
+male,23,engineering crew,England,no
+male,36,engineering crew,England,no
+male,38,victualling crew,England,no
+male,31,victualling crew,England,no
+male,34,victualling crew,England,no
+male,18,victualling crew,England,no
+male,32,victualling crew,England,no
+male,53,deck crew,England,yes
+male,23,engineering crew,England,yes
+male,27,engineering crew,England,no
+male,41,engineering crew,England,no
+male,23,engineering crew,England,yes
+male,31,victualling crew,England,no
+male,28,deck crew,England,no
+male,19,victualling crew,England,yes
+male,31,victualling crew,England,no
+male,19,engineering crew,England,no
+male,21,victualling crew,England,no
+male,20,victualling crew,England,no
+male,33,engineering crew,England,no
+male,30,engineering crew,England,no
+male,22,victualling crew,England,no
+male,59,engineering crew,England,no
+male,38,restaurant staff,France,no
+male,27,engineering crew,Wales,no
+male,35,victualling crew,England,no
+male,29,restaurant staff,England,no
+male,28,restaurant staff,England,no
+male,55,victualling crew,England,no
+male,25,victualling crew,England,no
+female,24,victualling crew,England,yes
+male,23,deck crew,England,yes
+male,38,engineering crew,England,no
+male,41,victualling crew,England,yes
+male,17,victualling crew,England,no
+male,37,victualling crew,England,no
+male,29,victualling crew,England,no
+male,32,deck crew,England,yes
+male,21,victualling crew,England,no
+male,24,restaurant staff,England,no
+male,32,victualling crew,England,yes
+male,31,engineering crew,England,yes
+male,38,engineering crew,England,no
+male,30,engineering crew,England,no
+male,40,engineering crew,England,yes
+male,44,engineering crew,England,no
+male,25,engineering crew,England,no
+male,30,victualling crew,England,yes
+male,18,victualling crew,England,no
+male,23,engineering crew,Scotland,no
+male,22,engineering crew,England,yes
+male,43,engineering crew,England,no
+male,37,engineering crew,England,no
+male,30,victualling crew,England,no
+male,44,engineering crew,England,no
+male,28,victualling crew,England,no
+male,26,engineering crew,Scotland,no
+male,36,victualling crew,England,no
+male,34,victualling crew,Ireland,no
+male,35,victualling crew,England,no
+male,18,victualling crew,England,no
+male,28,victualling crew,Ireland,no
+male,20,victualling crew,England,no
+male,42,deck crew,England,no
+male,48,victualling crew,England,no
+male,30,engineering crew,England,no
+male,36,victualling crew,England,no
+male,43,engineering crew,England,no
+male,31,victualling crew,England,no
+male,33,victualling crew,England,no
+male,49,victualling crew,England,yes
+male,21,victualling crew,England,no
+male,43,engineering crew,England,yes
+male,20,victualling crew,England,no
+male,41,engineering crew,England,no
+male,46,victualling crew,England,no
+male,34,victualling crew,England,no
+male,55,victualling crew,England,no
+female,40,victualling crew,England,yes
+male,36,victualling crew,England,no
+male,22,victualling crew,England,no
+female,50,victualling crew,England,yes
+male,18,engineering crew,England,no
+male,29,victualling crew,England,yes
+male,41,deck crew,England,yes
+male,35,victualling crew,England,no
+male,25,victualling crew,United States,no
+male,26,victualling crew,England,no
+male,27,victualling crew,England,yes
+male,24,victualling crew,England,no
+male,20,engineering crew,England,no
+male,47,engineering crew,England,no
+male,38,deck crew,England,yes
+male,30,engineering crew,England,yes
+male,40,victualling crew,England,yes
+male,41,victualling crew,England,no
+male,29,engineering crew,England,no
+male,33,victualling crew,England,no
+male,31,engineering crew,England,no
+male,36,engineering crew,England,no
+male,20,victualling crew,England,no
+male,37,victualling crew,England,no
+male,29,deck crew,Wales,yes
+male,25,deck crew,England,yes
+male,31,victualling crew,England,yes
+male,45,victualling crew,England,no
+male,26,deck crew,Ireland,no
+male,24,victualling crew,England,no
+male,34,victualling crew,England,no
+male,32,engineering crew,Scotland,no
+male,36,victualling crew,England,no
+male,32,engineering crew,England,yes
+male,40,victualling crew,England,no
+male,50,victualling crew,United States,no
+male,27,engineering crew,England,no
+male,27,victualling crew,Scotland,no
+male,21,victualling crew,England,no
+female,28,victualling crew,England,yes
+male,40,engineering crew,England,no
+female,20,restaurant staff,England,yes
+female,39,victualling crew,Channel Islands,yes
+male,25,engineering crew,England,no
+male,32,engineering crew,England,yes
+male,39,engineering crew,England,no
+male,30,deck crew,England,no
+male,29,deck crew,Wales,no
+male,20,restaurant staff,England,no
+male,25,restaurant staff,England,yes
+male,30,deck crew,England,no
+male,22,engineering crew,England,no
+male,59,engineering crew,England,no
+male,31,victualling crew,England,yes
+male,28,engineering crew,England,no
+male,53,victualling crew,England,no
+male,25,engineering crew,England,yes
+male,38,engineering crew,England,no
+male,23,engineering crew,NA,no
+male,38,victualling crew,England,no
+male,47,deck crew,Ireland,yes
+male,38,engineering crew,England,no
+male,36,victualling crew,Scotland,no
+male,37,victualling crew,England,no
+male,29,engineering crew,England,yes
+male,34,engineering crew,England,no
+male,30,engineering crew,England,no
+male,36,deck crew,Ireland,yes
+male,17,victualling crew,England,no
+male,38,engineering crew,England,no
+male,21,engineering crew,England,yes
+male,30,victualling crew,England,yes
+female,40,victualling crew,England,yes
+male,23,victualling crew,England,yes
+male,21,victualling crew,England,no
+male,36,victualling crew,England,no
+male,44,victualling crew,England,no
+male,26,engineering crew,Northern Ireland,no
+male,32,engineering crew,England,no
+male,22,engineering crew,Northern Ireland,no
+male,34,victualling crew,England,no
+male,27,engineering crew,Ireland,no
+male,28,victualling crew,England,no
+male,28,engineering crew,England,no
+male,26,engineering crew,Scotland,no
+male,32,engineering crew,Northern Ireland,no
+male,51,victualling crew,England,yes
+male,46,engineering crew,England,no
+male,53,victualling crew,Lebanon,no
+male,19,engineering crew,England,no
+male,20,restaurant staff,Spain,no
+male,23,restaurant staff,England,no
+male,24,deck crew,England,no
+male,39,victualling crew,England,no
+male,32,deck crew,England,yes
+male,29,engineering crew,England,yes
+male,22,engineering crew,England,no
+male,44,engineering crew,England,no
+male,42,victualling crew,England,no
+male,27,engineering crew,England,no
+male,26,engineering crew,England,no
+male,30,engineering crew,England,no
+male,28,victualling crew,England,yes
+male,23,engineering crew,England,no
+male,36,victualling crew,England,no
+male,24,engineering crew,Scotland,no
+male,37,victualling crew,England,no
+male,20,victualling crew,Scotland,no
+male,39,deck crew,Scotland,no
+male,42,restaurant staff,Italy,no
+male,26,victualling crew,England,yes
+male,30,engineering crew,England,no
+male,33,engineering crew,England,no
+male,39,victualling crew,England,no
+male,48,deck crew,Australia,no
+male,46,victualling crew,England,no
+male,35,victualling crew,England,yes
+male,30,engineering crew,Scotland,no
+male,42,engineering crew,England,no
+male,22,engineering crew,England,no
+male,21,engineering crew,England,no
+male,30,engineering crew,England,yes
+male,30,engineering crew,England,yes
+male,29,engineering crew,England,yes
+male,44,victualling crew,England,no
+male,31,engineering crew,England,no
+male,27,victualling crew,England,no
+male,32,engineering crew,England,yes
+male,27,deck crew,Channel Islands,yes
+male,63,deck crew,England,no
+male,31,victualling crew,England,no
+male,39,victualling crew,Scotland,no
+male,32,victualling crew,England,no
+male,27,deck crew,England,yes
+male,36,engineering crew,England,yes
+male,43,victualling crew,Wales,no
+male,17,victualling crew,England,no
+male,19,restaurant staff,England,no
+male,32,engineering crew,England,no
+male,32,engineering crew,England,no
+male,29,engineering crew,England,no
+male,29,victualling crew,England,no
+male,45,engineering crew,England,no
+male,37,victualling crew,England,no
+male,27,engineering crew,England,no
+male,18,victualling crew,England,no
+male,45,deck crew,England,yes
+male,24,victualling crew,England,no
+male,28,engineering crew,England,yes
+male,25,victualling crew,England,yes
+male,21,restaurant staff,England,no
+male,39,engineering crew,England,yes
+male,34,victualling crew,England,no
+male,31,victualling crew,England,no
+male,49,victualling crew,England,no
+male,20,restaurant staff,England,no
+male,17,restaurant staff,England,no
+male,22,victualling crew,England,no
+male,37,deck crew,England,yes
+male,20,restaurant staff,England,no
+male,48,victualling crew,England,no
+male,32,victualling crew,England,no
+male,19,engineering crew,England,yes
+male,23,engineering crew,England,no
+male,26,deck crew,England,yes
+male,25,victualling crew,England,no
+male,30,victualling crew,Germany,yes
+male,23,victualling crew,England,yes
+male,27,engineering crew,England,no
+male,25,victualling crew,England,no
+male,35,restaurant staff,England,no
+male,17,restaurant staff,England,no
+male,33,restaurant staff,England,no
+male,25,engineering crew,England,no
+male,34,deck crew,England,yes
+male,18,victualling crew,England,no
+male,24,engineering crew,England,yes
+male,28,restaurant staff,England,no
+male,33,deck crew,Channel Islands,yes
+male,33,engineering crew,England,no
+male,36,victualling crew,England,no
+male,34,victualling crew,England,no
+male,22,victualling crew,England,yes
+male,30,engineering crew,England,yes
+male,23,victualling crew,England,yes
+male,20,engineering crew,England,no
+male,17,restaurant staff,England,no
+female,36,victualling crew,England,yes
+male,23,victualling crew,England,no
+male,24,engineering crew,England,yes
+male,21,victualling crew,England,yes
+male,46,victualling crew,England,no
+male,22,engineering crew,England,no
+male,23,victualling crew,England,no
+male,20,victualling crew,England,yes
+male,31,engineering crew,England,no
+male,22,engineering crew,England,yes
+male,44,victualling crew,England,no
+male,29,victualling crew,England,no
+male,29,engineering crew,England,yes
+male,50,victualling crew,England,no
+male,38,victualling crew,Channel Islands,no
+male,21,restaurant staff,England,no
+male,32,victualling crew,England,yes
+male,20,engineering crew,England,no
+male,55,victualling crew,England,no
+male,34,engineering crew,England,no
+male,30,engineering crew,England,no
+male,31,victualling crew,England,no
+male,22,restaurant staff,England,no
+male,32,engineering crew,England,yes
+male,25,victualling crew,England,no
+male,19,victualling crew,England,no
+male,30,engineering crew,England,no
+male,36,engineering crew,England,no
+male,22,victualling crew,England,no
+male,30,victualling crew,England,no
+male,22,restaurant staff,England,no
+male,29,victualling crew,England,no
+male,19,victualling crew,England,no
+male,37,victualling crew,England,no
+male,40,victualling crew,Wales,no
+male,35,engineering crew,England,no
+female,41,victualling crew,England,yes
+male,30,victualling crew,England,no
+female,41,victualling crew,England,yes
+male,31,victualling crew,England,no
+male,27,victualling crew,Ireland,no
+male,36,victualling crew,England,yes
+male,23,restaurant staff,England,no
+male,26,engineering crew,England,no
+male,49,restaurant staff,England,no
+male,31,victualling crew,England,no
+male,32,deck crew,England,yes
+male,24,engineering crew,England,no
+male,58,victualling crew,England,yes
+male,17,victualling crew,England,no
+male,27,engineering crew,England,no
+male,28,victualling crew,Channel Islands,no
+male,33,victualling crew,Canada,yes
+male,24,restaurant staff,Italy,no
+male,25,restaurant staff,England,no
+male,47,victualling crew,Wales,no
+male,30,engineering crew,England,no
+male,24,restaurant staff,England,no
+male,26,victualling crew,England,no
+male,22,engineering crew,England,no
+male,23,engineering crew,England,no
+male,23,engineering crew,England,no
+male,23,victualling crew,England,yes
+male,31,deck crew,England,no
+male,33,deck crew,England,yes
+male,42,restaurant staff,Italy,no
+male,41,engineering crew,Northern Ireland,no
+male,28,engineering crew,England,yes
+male,20,victualling crew,England,no
+male,55,victualling crew,England,no
+male,25,victualling crew,England,no
+male,24,engineering crew,England,yes
+male,40,engineering crew,England,no
+male,31,engineering crew,England,yes
+male,24,restaurant staff,England,no
+male,25,victualling crew,England,yes
+male,42,victualling crew,England,no
+male,40,victualling crew,England,no
+male,32,engineering crew,England,no
+male,20,engineering crew,England,yes
+male,32,engineering crew,England,no
+male,25,engineering crew,England,yes
+male,19,engineering crew,England,no
+male,29,victualling crew,England,no
+male,31,victualling crew,England,yes
+male,24,victualling crew,England,no
+male,37,victualling crew,England,no
+male,37,deck crew,Northern Ireland,no
+male,23,victualling crew,England,no
+male,23,engineering crew,England,no
+male,41,victualling crew,England,no
+male,33,victualling crew,England,no
+male,36,victualling crew,England,no
+female,28,victualling crew,Northern Ireland,yes
+male,31,engineering crew,England,no
+female,30,victualling crew,England,yes
+male,40,engineering crew,England,no
+male,29,victualling crew,Scotland,no
+male,62,deck crew,England,no
+male,22,engineering crew,England,no
+female,45,victualling crew,England,yes
+male,40,victualling crew,England,no
+male,38,victualling crew,England,no
+male,27,engineering crew,England,no
+male,20,victualling crew,England,no
+male,39,engineering crew,Scotland,no
+male,24,victualling crew,England,no
+male,33,victualling crew,England,no
+male,26,deck crew,England,no
+female,22,victualling crew,England,no
+male,41,engineering crew,England,no
+male,26,engineering crew,England,no
+male,21,engineering crew,England,yes
+male,36,engineering crew,England,yes
+male,38,victualling crew,England,no
+male,31,engineering crew,England,no
+female,47,victualling crew,England,yes
+male,36,victualling crew,England,no
+male,28,victualling crew,Scotland,yes
+male,20,engineering crew,England,no
+male,33,victualling crew,England,no
+male,29,victualling crew,England,no
+male,25,engineering crew,England,yes
+male,19,victualling crew,England,no
+male,35,victualling crew,England,no
+male,34,victualling crew,England,no
+male,31,victualling crew,England,no
+male,28,engineering crew,England,no
+male,25,engineering crew,England,no
+male,48,victualling crew,Northern Ireland,no
+male,45,victualling crew,England,no
+male,24,deck crew,England,yes
+male,20,victualling crew,England,no
+male,24,deck crew,England,no
+male,22,victualling crew,England,no
+male,40,deck crew,England,no
+male,24,engineering crew,England,yes
+male,42,engineering crew,England,no
+male,49,engineering crew,England,no
+male,19,victualling crew,England,no
+male,28,engineering crew,England,yes
+male,32,victualling crew,England,no
+male,19,deck crew,England,no
+male,27,victualling crew,England,yes
+male,23,restaurant staff,England,no
+male,35,victualling crew,England,no
+male,17,victualling crew,England,no
+male,46,victualling crew,England,yes
+male,23,victualling crew,England,yes
+male,30,victualling crew,England,yes
+male,24,engineering crew,England,no
+male,25,victualling crew,England,no
+male,35,engineering crew,England,yes
+male,39,victualling crew,England,no
+male,25,victualling crew,England,no
+male,44,engineering crew,England,yes
+male,25,engineering crew,England,yes
+male,27,restaurant staff,England,no
+male,31,engineering crew,England,no
+male,29,victualling crew,England,yes
+male,28,victualling crew,England,no
+male,30,victualling crew,Scotland,no
+male,32,engineering crew,England,no
+male,39,engineering crew,England,yes
+male,37,engineering crew,Ireland,no
+male,42,victualling crew,England,no
+male,28,victualling crew,England,no
+male,17,restaurant staff,England,no
+male,20,restaurant staff,Italy,no
+male,35,restaurant staff,England,no
+male,38,engineering crew,Netherlands,no
+male,36,engineering crew,England,no
+male,38,victualling crew,England,no
+male,33,engineering crew,England,no
+male,34,engineering crew,England,no
+male,21,restaurant staff,England,no
+male,32,deck crew,Channel Islands,yes
+male,19,restaurant staff,England,no
+male,18,restaurant staff,England,no
+male,25,restaurant staff,Italy,no
+male,35,restaurant staff,England,no
+male,37,victualling crew,England,no
+female,36,victualling crew,England,no
+male,48,victualling crew,England,no
+female,32,victualling crew,Ireland,no
+male,23,engineering crew,England,no
+male,34,victualling crew,England,no
+male,31,engineering crew,England,no
+male,40,victualling crew,England,no
+male,37,victualling crew,England,yes
+male,40,engineering crew,England,no
+male,37,victualling crew,England,no
+male,26,victualling crew,England,no
+male,26,engineering crew,England,no
+male,15,victualling crew,England,no
+male,27,engineering crew,England,no
+male,25,victualling crew,England,no
+male,31,engineering crew,England,no
+male,50,victualling crew,England,no
+male,28,engineering crew,England,no
+male,52,victualling crew,United States,yes
+male,21,victualling crew,England,no
+male,30,deck crew,England,yes
+male,30,victualling crew,England,yes
+male,29,victualling crew,England,yes
+male,18,victualling crew,England,yes
+male,21,engineering crew,England,no
+male,32,engineering crew,England,yes
+male,37,victualling crew,England,no
+male,27,victualling crew,England,no
+male,28,engineering crew,England,no
+male,32,victualling crew,Australia,no
+male,23,engineering crew,England,yes
+male,39,victualling crew,England,no
+male,37,victualling crew,England,yes
+male,39,deck crew,England,no
+male,42,victualling crew,England,no
+male,26,engineering crew,England,no
+male,28,victualling crew,England,yes
+male,35,victualling crew,Ireland,no
+male,59,victualling crew,England,no
+male,34,victualling crew,England,no
+male,28,engineering crew,England,no
+male,53,engineering crew,England,no
+male,38,victualling crew,England,yes
+male,36,victualling crew,England,no
+male,39,engineering crew,England,no
+male,31,victualling crew,England,yes
+male,39,victualling crew,Austria,no
+male,37,engineering crew,England,no
+male,35,engineering crew,England,no
+male,40,engineering crew,England,no
+male,31,engineering crew,England,no
+male,49,victualling crew,England,no
+male,41,victualling crew,United States,no
+male,45,victualling crew,England,no
+male,37,engineering crew,England,no
+male,19,victualling crew,England,no
+male,24,victualling crew,England,no
+male,40,victualling crew,England,yes
+male,26,engineering crew,England,no
+male,41,deck crew,England,yes
+male,40,victualling crew,England,yes
+male,32,engineering crew,England,no
+male,20,restaurant staff,England,no
+male,26,restaurant staff,England,no
